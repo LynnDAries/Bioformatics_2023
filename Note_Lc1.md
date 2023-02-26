@@ -12,5 +12,12 @@ To What Extent Are Genetic Variation and Personal Health Linked?
 ### 3 steps of bioformatics:
 1. Information
 2. **Model**
+
 eg.Neural network
-4. **Algorithm**
+
+By modeling, we turn a specific question into one that can be described by mathematical linguistics and solved by computer. 
+3. **Algorithm**
+
+eg. Number Sorting Algorithm
+
+We can develop many algorithm to solving question faster or more convenient. Compared with 'model',developing algorithm is like developing and sharpening a tool. Algorithm supports operation of model. 
