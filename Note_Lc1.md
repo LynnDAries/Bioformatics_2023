@@ -12,4 +12,5 @@ To What Extent Are Genetic Variation and Personal Health Linked?
 ### 3 steps of bioformatics:
 1. Information
 2. **Model**
-3. **Algorithm**
+eg.Neural network
+4. **Algorithm**
