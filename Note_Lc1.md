@@ -13,6 +13,7 @@ To What Extent Are Genetic Variation and Personal Health Linked?
 1. Information
 2. **Model**
 3. **Algorithm**
+
 Model
 
 eg.Neural network
