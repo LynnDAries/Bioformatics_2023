@@ -16,7 +16,7 @@ To What Extent Are Genetic Variation and Personal Health Linked?
 eg.Neural network
 
 By modeling, we turn a specific question into one that can be described by mathematical linguistics and solved by computer. 
-3. **Algorithm**
+3.**Algorithm**
 
 eg. Number Sorting Algorithm
 
