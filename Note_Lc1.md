@@ -25,3 +25,11 @@ Algorithm
 eg. Number Sorting Algorithm
 
 We can develop many algorithm to solving question faster or more convenient. Compared with 'model',developing algorithm is like developing and sharpening a tool. Algorithm supports operation of model. 
+
+## Plan for studing bioformatics
+
+do preview before class
+
+organize the tutorial articles which I learned from, review them and make sure I command those skills.make sure I can find them later
+
+apply bioformatics skills to my research program in lab to analyze amino acid composition of LCD.
